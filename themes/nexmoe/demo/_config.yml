@@ -31,14 +31,15 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-syntax_highlighter: highlight.js
 highlight:
+  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -60,7 +61,4 @@ exclude: null
 ignore: null
 theme: nexmoe
 deploy:
-  type: 'git'
-  repo: https://github.com/wangjzzz/myblog.git
-  branch: main
-  message: 更新站点内容
+  type: ''
