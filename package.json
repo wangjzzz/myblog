@@ -28,6 +28,6 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-nexmoe": "^4.2.2",
     "inferno": "^7.4.11",
-    "inferno-create-element": "^7.4.11"
+    "inferno-create-element": "^9.1.0"
   }
 }
